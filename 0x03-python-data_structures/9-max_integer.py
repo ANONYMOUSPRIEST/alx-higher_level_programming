@@ -7,4 +7,4 @@ def max_integer(my_list=[]):
     for i, n in enumerate(my_list):
         if i == 0 or n >= max_int:
             max_int = n
-        return max_int
+    return max_int
